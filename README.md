@@ -4,3 +4,8 @@ Description: The provided C++ code implements an online shopping system for vari
 Note: This program is made using C++ concepts.
 </p>
 <br>
+<p>
+Note: Run the above code in " CodeBlocks ".<br>
+      It working porperly without any errors.<br>
+</p>
+<br>      
